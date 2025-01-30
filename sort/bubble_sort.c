@@ -26,7 +26,7 @@ void bubblesort(int arr[], int n) {
 
 int main() {
 	
-	int unsorted_arr[10] = {0, 1, 2, 6, 5, 4, 3, 9, 8, 7};
+	int unsorted_arr[] = {0, 989, 54, 73, 1, 2, 6, 5, 4, 3, 9, 8, 7, 24, 19, 38, 37, 36};
 	int n = sizeof(unsorted_arr) / sizeof(unsorted_arr[0]);
 	
 
